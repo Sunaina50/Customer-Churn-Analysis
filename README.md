@@ -1,3 +1,5 @@
+Customer Churn Analysis
+
 📌 Objective
 
 The analysis explores customer churn patterns, focusing on various factors such as payment methods, contract types, tenure, and demographic attributes. The goal is to identify which factors are most strongly associated with higher churn rates to guide customer retention strategies.
@@ -55,60 +57,6 @@ The analysis explores customer churn patterns, focusing on various factors such 
 🔹 Churn by Payment Method: Electronic check users have almost 3x higher churn than traditional payment users.
 
 🔹 Churn by Tenure: A clear declining trend in churn as tenure increases, emphasizing the need for early-stage loyalty programs.
-
-📊 Percentage Distribution of Churn Across Factors
-
-Factor
-
-Churn Rate
-
-Electronic Checks
-
-45%
-
-Credit Cards
-
-15%
-
-Month-to-Month
-
-42%
-
-One-Year Contract
-
-11%
-
-Two-Year Contract
-
-3%
-
-Tenure < 1 Year
-
-50%
-
-Tenure 1-3 Years
-
-35%
-
-Tenure > 3 Years
-
-15%
-
-Fiber Optic Users
-
-30%
-
-DSL Users
-
-20%
-
-Senior Citizens
-
-41%
-
-Non-Senior Citizens
-
-26%
 
 🎯 Recommendations
 
