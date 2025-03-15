@@ -1,61 +1,129 @@
-Objective:
-The analysis explores customer churn patterns, focusing on various factors such as payment
-methods, contract types, tenure, and demographic attributes. The goal is to identify which
-factors are most strongly associated with higher churn rates to guide customer retention
-strategies.
-Key Insights & Findings:
-● Contract Type and Churn:
-○ Customers on month-to-month contracts exhibit the highest churn rate, with
-42% of such customers likely to churn.
-○ In contrast, customers on one-year and two-year contracts have churn rates of
-11% and 3%, respectively.
-○ Implication: Longer contract periods serve as a strong retention tool, as
-customers with extended commitments are far less likely to leave.
-● Payment Methods and Churn:
-○ Customers paying via electronic checks show the highest churn rate at 45%,
-while those using credit cards, bank transfers, or mailed checks have
-significantly lower churn rates, averaging around 15-18%.
-○ Implication: The convenience, security, and trust issues related to electronic
-payments might be contributing factors. Encouraging customers to switch to
-more stable payment methods could reduce churn.
-● Churn by Tenure:
-○ Customers with less than one year of tenure are the most likely to churn, with a
-50% churn rate. Those with 1-3 years of tenure show a decreasing churn trend
-at 35%, while customers who have been with the company for more than three
-years have a churn rate of just 15%.
-○ Implication: Engaging customers early in their journey, especially within the first
-year, is critical for retention.
-● Churn by Internet Service Type:
-○ Customers using Fiber Optic services show a higher churn rate of 30%,
-compared to DSL customers with a churn rate of 20%.
-○ Implication: This could be due to increased competition or dissatisfaction with
-service quality. Understanding customer satisfaction with service speed and
-reliability may help retain fiber optic users.
-● Senior Citizens and Churn:
-○ The analysis reveals that senior citizens (aged 65+) have a churn rate of 41%,
-compared to a 26% churn rate among non-senior citizens.
-○ Implication: Special retention programs and targeted customer service for senior
-customers may help reduce churn in this demographic.
-Visualizations & Data Insights:
-● Bar Charts and Line Graphs:
-○ The visual representation of churn by payment method clearly shows that
-customers using electronic checks churn almost three times as much as those
-using more traditional or secure methods like credit cards.
-○ Customer tenure vs. churn rate visualizations reveal a clear declining trend in
-churn as customers' tenure increases, underscoring the need for early-stage
-customer loyalty programs.
-● Percentage Distribution of Churn Across Factors:
-○ Payment Methods: 45% churn for electronic check users, 15% for credit card
-users.
-○ Contract Types: 42% churn for month-to-month contracts, 11% for yearly
-contracts, 3% for two-year contracts.
-○ Tenure: 50% churn in the first year, dropping to 15% after three years.
-Recommendations:
-● Promote Long-Term Contracts: Offer incentives for customers to commit to longer
-contracts to reduce churn.
-● Address Payment Method Concerns: Implement campaigns encouraging customers
-to switch from electronic checks to more reliable payment methods.
-● Customer Engagement in Early Tenure: Focus on improving the customer experience
-within the first year, as churn is highest in this period.
-● Special Senior Citizen Retention Programs: Create personalized offers or assistance
-programs to retain the senior demographic.
+📌 Objective
+
+The analysis explores customer churn patterns, focusing on various factors such as payment methods, contract types, tenure, and demographic attributes. The goal is to identify which factors are most strongly associated with higher churn rates to guide customer retention strategies.
+
+🔍 Key Insights & Findings
+
+📄 Contract Type and Churn
+
+📌 42% churn rate for month-to-month contracts.
+
+📌 11% churn rate for one-year contracts.
+
+📌 3% churn rate for two-year contracts.
+
+💡 Implication: Longer contract periods serve as a strong retention tool.
+
+💳 Payment Methods and Churn
+
+📌 45% churn rate for electronic check users.
+
+📌 15-18% churn rate for credit card, bank transfer, and mailed check users.
+
+💡 Implication: Encouraging customers to switch from electronic checks to more stable payment methods could reduce churn.
+
+⏳ Churn by Tenure
+
+📌 50% churn in the first year.
+
+📌 35% churn for 1-3 years tenure.
+
+📌 15% churn for tenure beyond three years.
+
+💡 Implication: Engaging customers early in their journey is critical for retention.
+
+🌐 Churn by Internet Service Type
+
+📌 30% churn rate for Fiber Optic users.
+
+📌 20% churn rate for DSL users.
+
+💡 Implication: Service satisfaction may impact churn. Improving service quality may help retain fiber optic users.
+
+👴 Senior Citizens and Churn
+
+📌 41% churn rate among senior citizens (65+).
+
+📌 26% churn rate among non-senior citizens.
+
+💡 Implication: Special retention programs for senior customers may help reduce churn.
+
+📊 Visualizations & Data Insights
+
+📈 Bar Charts and Line Graphs
+
+🔹 Churn by Payment Method: Electronic check users have almost 3x higher churn than traditional payment users.
+
+🔹 Churn by Tenure: A clear declining trend in churn as tenure increases, emphasizing the need for early-stage loyalty programs.
+
+📊 Percentage Distribution of Churn Across Factors
+
+Factor
+
+Churn Rate
+
+Electronic Checks
+
+45%
+
+Credit Cards
+
+15%
+
+Month-to-Month
+
+42%
+
+One-Year Contract
+
+11%
+
+Two-Year Contract
+
+3%
+
+Tenure < 1 Year
+
+50%
+
+Tenure 1-3 Years
+
+35%
+
+Tenure > 3 Years
+
+15%
+
+Fiber Optic Users
+
+30%
+
+DSL Users
+
+20%
+
+Senior Citizens
+
+41%
+
+Non-Senior Citizens
+
+26%
+
+🎯 Recommendations
+
+✅ 1. Promote Long-Term Contracts
+
+Offer discounts or perks for customers committing to longer contracts.
+
+✅ 2. Address Payment Method Concerns
+
+Encourage customers to switch from electronic checks to more stable methods.
+
+✅ 3. Customer Engagement in Early Tenure
+
+Improve onboarding experience and provide loyalty incentives within the first year.
+
+✅ 4. Special Senior Citizen Retention Programs
+
+Create personalized offers and customer support to retain senior customers.
